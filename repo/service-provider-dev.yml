@@ -7,7 +7,7 @@ spring:
   datasource:
     driverClassName: com.mysql.jdbc.Driver
     password: root
-    url: jdbc:mysql://127.168.0.173:3306/sshjzt?useUnicode=true&characterEncoding=utf-8
+    url: jdbc:mysql://192.168.0.173:3306/sshjzt?useUnicode=true&characterEncoding=utf-8
     username: root
   rabbitmq:
     port: 5672
